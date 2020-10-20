@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492270035911",
+    "firebase_url": "https://mavexchange.firebaseio.com",
+    "project_id": "mavexchange",
+    "storage_bucket": "mavexchange.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492270035911:android:cf699e885c7c0b282b6fe2",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492270035911-f60lni98ohh2is5hqfn9mgi1m7g9ke4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpBPnbGexDHXb8ndTOpBpdq9WT1IONkQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492270035911-f60lni98ohh2is5hqfn9mgi1m7g9ke4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
