@@ -1,10 +1,10 @@
 # mavExchange
 
-This project completed by a team named ìTeam Nirvanaî. Team members:
-Siddharth Gautam 
-Koshish Khadka
-Lahana Maharjan
-Bishwamitra Sapkota
+This project was completed by a team named ‚ÄúTeam Nirvana‚Äù. Team members:
+Siddharth Gautam, 
+Koshish Khadka, 
+Lahana Maharjan, 
+Bishwamitra Sapkota, 
 Anvay Srivastava
 
 
@@ -26,7 +26,12 @@ Favorite: Users can favorite posts which will be listed on their favorites page,
 Here are some screenshots of our application. 
 
 
-
+![Signup](https://user-images.githubusercontent.com/66706809/151262363-7ddb2c21-f6ac-43a0-844d-8157d2ce3307.JPG)
+![Signup](https://user-images.githubusercontent.com/66706809/151262385-de49ea37-e79d-4539-a318-cf921b46849a.JPG)
+![login](https://user-images.githubusercontent.com/66706809/151262402-c33bf8e0-1d4e-4a5b-9a8c-6ec542c214ca.JPG)
+![login](https://user-images.githubusercontent.com/66706809/151262421-9fb9db77-e0af-4990-99e8-c6df4c55c3b6.JPG)
+![login](https://user-images.githubusercontent.com/66706809/151262430-9967ac0d-152d-4b59-b620-99b205291ee9.JPG)
+![login](https://user-images.githubusercontent.com/66706809/151262442-f5341227-668d-4d81-8a15-fb494d1441fc.JPG)
 
 
 
