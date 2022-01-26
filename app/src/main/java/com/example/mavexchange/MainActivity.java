@@ -1,4 +1,4 @@
-package com.example.project;
+package com.example.mavexchange;
 
 import androidx.appcompat.app.AppCompatActivity;
 
